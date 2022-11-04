@@ -1,1 +1,9 @@
-Hola
+Es un proyecto realizado con el fin de practicar la conexión entre una api hecha con el framework Flask y la base de datos sqlite.
+
+Estado del proyecto: finalizado.
+
+Este es un CRUD sencillo de una API de tareas personales, para la creación solo es necesario un título descriptivo para la tarea, por defecto el estado de dichas tareas es 'no completado' pero puede ser cambiado a 'completado'.
+
+En la carpeta 'resources' está el archivo tasks.py que contiene las funciones de cada path de la Api. En modo comentarios se encuentra el modo en que la función espera los datos en formato json.
+
+La api está desplegada en Heroku, en la siguiente ruta: https://first-flask-api-samuelduncan.herokuapp.com/
